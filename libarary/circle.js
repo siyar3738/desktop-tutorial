@@ -12,4 +12,4 @@ Area = (r) => {
     console.log("Perimeter of circle with r = "+r+"cm is : "+perimeter +"cm")
 }
 
-export default {Area,Perimeter}
+export  {Area,Perimeter}

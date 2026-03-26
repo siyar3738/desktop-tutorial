@@ -1,3 +1,2 @@
-import { area } from "./export";
-
+import {area} from "./export";
 area(5)

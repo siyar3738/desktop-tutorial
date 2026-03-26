@@ -1,3 +1,3 @@
-import { area } from "./circle.js"
-const result = area(5)
+import { Area } from "./circle.js"
+const result = Area(2)
 console.log(result)

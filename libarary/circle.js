@@ -1,13 +1,4 @@
-export function area(r) {
-    area=3.14*r*r
-    return area(r)
+export function Area(r) {
+    Area=3.14*r*r
+    return (3.14*r*r);
 }
-
-
-
- export function Perimeter(r) {
-    perimeter=2*3.14*r
-    return perimeter(r)
-}
-
-

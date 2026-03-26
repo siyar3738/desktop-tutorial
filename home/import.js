@@ -1,3 +1,3 @@
 import {area} from "./export";
-const result = (6)
+const result =area(6)
 console.log(result)

@@ -1,3 +1,3 @@
 import { area } from "./circle.js"
-const result = area(2)
+const result = {area}
 console.log(result)

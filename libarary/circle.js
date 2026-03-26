@@ -1,13 +1,13 @@
-Area = (r) => {
+export function Area(r) {
     area=3.14*r*r
-    return area,r,
+    return area(r)
 }
 
 
 
- function Perimeter (r) {
+ export function Perimeter (r) {
     perimeter=2*3.14*r
-    return perimeter,r,
+    return perimeter(r)
 }
 
-export  {Area,Perimeter}
+

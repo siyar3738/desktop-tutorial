@@ -32,7 +32,7 @@
 //         console.log("pass")
 //     }, 5000)
 // }
-<<<<<<< HEAD
+
 
 // User3 = {
 //     "Name":"Siya thakur",
@@ -47,7 +47,7 @@
 // console.log(User1,User2,User3)
 
 
-=======
+
 
 // User3 = {
 //     "Name":"Siya thakur",
@@ -60,4 +60,4 @@
 // }
 
 // console.log(User1,User2,User3)
->>>>>>> addad7cd696f3ab8681c5050b4abc2d236150b93
+

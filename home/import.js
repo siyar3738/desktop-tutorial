@@ -1,2 +1,3 @@
 import {area} from "./export";
-area(5)
+const result = (6)
+console.log(result)

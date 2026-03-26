@@ -1,3 +1,3 @@
 export function area(a) {
-    return (a*a)
+    return (a*a);
 }

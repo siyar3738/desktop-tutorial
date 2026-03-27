@@ -38,14 +38,14 @@
 
 
 
-const Sum = (x,y) => {
-    sum=x+y
-    return sum,x,y,
-    console.log("Sum of x = "+x+" and Sum of y = "+y+" is : "+sum)
-}
+// const Sum = (x,y) => {
+//     sum=x+y
+//     return sum,x,y,
+//     console.log("Sum of x = "+x+" and Sum of y = "+y+" is : "+sum)
+// }
 
-Sum(8,4)
-Sum(3,5)
+// Sum(8,4)
+// Sum(3,5)
 
 
 

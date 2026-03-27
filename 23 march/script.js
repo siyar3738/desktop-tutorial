@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-indification = {
-    "Name" : "siya thakur",
-    "Fathers name" : "Rajvarinder singh",
-    "Mothers name" : "Veena devi",
-    "catagory" : "general"
-}
-console.log(indification)
-=======
+// indification = {
+//     "Name" : "siya thakur",
+//     "Fathers name" : "Rajvarinder singh",
+//     "Mothers name" : "Veena devi",
+//     "catagory" : "general"
+// }
+// console.log(indification)
+
 // x=Number(prompt("Enter the first number"))
 // y=Number(prompt("Enter the second number"))
 // if(x>y){
@@ -41,4 +40,4 @@ console.log(indification)
 //     "gender":d
 // }
 // console.log(User)
->>>>>>> 071ec5a87abd929eb640630654b3fe12dc6dbbbe
+

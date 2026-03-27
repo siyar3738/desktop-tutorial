@@ -1,3 +1,3 @@
-import {Area, Perimeter}from "../libarary/circle.js";
-
-Area(5)
+// x=5
+// y=9
+// console.log(x+y)

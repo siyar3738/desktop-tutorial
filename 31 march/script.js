@@ -10,12 +10,15 @@
 
 
 
-x=(prompt("Enter the number"))
-for(i=0;i<=x;i++){
-   n=10
-    n+=i
-}console.log(n)
+// x=(prompt("Enter the number"))
+// for(i=0;i<=x;i++){
+//     n=10
+//      n-=i
+// }console.log(n)
     
 
-
-
+// x="Ssiya";
+//  result = [];
+// for(i=0;i<x.length;i++){
+//     result.push(i + "=" + x[i])
+// }console.log(result)

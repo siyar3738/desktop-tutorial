@@ -1,0 +1,35 @@
+#a{
+    text-align: center;
+    font-size: 140PX;
+    color: rgb(235, 9, 9);
+}
+#b,#d,#f{
+    text-align: center;
+    font-size: 90PX;
+    color: blue;
+}
+#c,#e,#g{
+    text-align: left;
+    font-size: 60PX;
+    color: crimson;
+}
+/* #d{
+    text-align: center;
+    font-size: 90PX;
+    color: blue;
+} */
+/* #e{
+    text-align: left;
+    font-size: 60PX;
+    color: crimson;
+}
+#f{
+    text-align: center;
+    font-size: 90PX;
+    color: blue;
+}
+#g{
+    text-align: left;
+    font-size: 60PX;
+    color: crimson;  */
+/* } */

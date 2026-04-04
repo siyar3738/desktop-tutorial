@@ -21,3 +21,8 @@
 // a=A[4]
 
 // console.log(a)
+
+
+// a="Siya is a good girl "
+
+// console.log(a.replace("good","very good"))

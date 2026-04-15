@@ -1,9 +1,14 @@
-// countryCode =prompt("Enter the country code (e.g.,IN, US, UK):");
-//   const flagUrl = `https://flagsapi.com/${countryCode}/flat/64.png`;
-// console.log(flagUrl);
-// const flagImg = document.querySelector(".img");
-//   if(flagImg) {
-//     flagImg.src = flagUrl;
-//   }else {
-//     console.error("Flag image not found")
-//   }
+// let fromCountry = prompt("Enter FROM country code:");
+// let toCountry = prompt("Enter TO country code:");
+
+// fromCountry = fromCountry.toUpperCase();
+// toCountry = toCountry.toUpperCase();
+
+// const fromFlagUrl = `https://flagsapi.com/${fromCountry}/flat/64.png`;
+// const toFlagUrl = `https://flagsapi.com/${toCountry}/flat/64.png`;
+
+// const fromImg = document.querySelector(".img");
+// const toImg = document.querySelector(".img_to");
+
+// fromImg.src = fromFlagUrl;
+// toImg.src = toFlagUrl;

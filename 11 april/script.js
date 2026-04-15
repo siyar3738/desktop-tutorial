@@ -1,12 +1,9 @@
-function getFlagEmoji(code) {
-    return code.toUpperCase.split('')
-    .map(c => String.fromCodePoint(127397 +c.charcodeAt()))
-    .join('');
-}
-
-
-function showFlag() {
-    let code = document.getElementById('countrycode').value;
-    let flag = getFlagEmoji(code);
-    document.getElementById('flag').textContent = "flag: " + flag;
-}
+// countryCode =prompt("Enter the country code (e.g.,IN, US, UK):");
+//   const flagUrl = `https://flagsapi.com/${countryCode}/flat/64.png`;
+// console.log(flagUrl);
+// const flagImg = document.querySelector(".img");
+//   if(flagImg) {
+//     flagImg.src = flagUrl;
+//   }else {
+//     console.error("Flag image not found")
+//   }

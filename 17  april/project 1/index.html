@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Currency Converter</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+
+<h2>Currency Converter</h2>
+
+<!-- FROM -->
+<div>
+  <select id="from"></select>
+  <img id="fromFlag" src="https://flagsapi.com/US/flat/64.png">
+</div>
+
+<!-- TO -->
+<div>
+  <select id="to"></select>
+  <img id="toFlag" src="https://flagsapi.com/IN/flat/64.png">
+</div>
+
+<!-- AMOUNT -->
+<input type="number" id="amount" placeholder="Enter amount">
+
+<!-- BUTTON -->
+<button onclick="convert()">Convert</button>
+
+<!-- RESULT -->
+<p id="result"></p>
+
+<!-- LINK JS -->
+<script src="script.js"></script>
+
+</body>
+</html>

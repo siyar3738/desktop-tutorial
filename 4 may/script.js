@@ -20,3 +20,10 @@
 
 
 
+// import { rectangleArea } from "./export.js";
+
+// let area = rectangleArea(10, 5);
+
+// console.log("Area of Rectangle = " + area);
+
+
